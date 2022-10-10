@@ -21,8 +21,8 @@ Step5: Execute the python program.
 
 ## Program
 ```python
-Developed by: s.vinod kumar
-Register No: 22004903
+Developed by: s.jegadeesh
+Register No: 22004355
 from robomaster import robot
 import time
 from robomaster import camera
